@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <main>
-      <h1>Justin has a massive weiner!</h1>
+    <main className="flex justify-center items-center mt-24">
+      Justin has a ......
     </main>
   );
 }
